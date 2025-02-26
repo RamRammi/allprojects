@@ -1,0 +1,22 @@
+Input Element and Math Functions | Cheat Sheet
+1. Math Functions
+
+1.1 Math.random()
+
+
+The Math.random() function returns a random number (float value) in range 0 to less than 1 (0 <= randomNumber < 1).
+
+console.log(Math.random());
+
+
+
+
+1.2 Math.ceil()
+The Math.ceil() function always rounds a number up to the next largest integer.
+
+
+console.log(Math.ceil(95.906698007537561));  // 96
+
+
+
+EX : let randomNumber = Math.ceil(Math.random() * 100);

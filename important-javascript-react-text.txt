@@ -1,0 +1,322 @@
+search 
+pagenation
+radio functionality and check box 
+ 
+button click edit the line 
+ 
+validation
+
+ 
+foem 
+ 
+drop down select 
+ 
+data picker
+ 
+how to send id or value to backend
+ 
+
+
+git hub
+ 
+Mail ID: ramesh385038@gamil.com
+Username: RamRammi
+ 
+
+
+
+NEXT WAVE 
+
+https://learning.ccbp.in/course?c_id=5e93210e-f183-433d-a12d-79d81deb01be
+
+
+
+window.innerheight 
+ 
+in colsole it will give screen resolution
+ 
+
+----------------------------------------
+Azure develops 
+
+After push code to the branch 
+Goto azure devops
+Go to (pipelines  ) then click on , which ( branch ) we want to run pipelines .
+Then click on ( run pipelines)
+In that we have selecte branch , which branch we want to merge , then click on ( Run).
+After completion of pipeline we have release the pipeline .
+We have option release in pipeline drop down . 
+Then we have to select which environment we have to release then select that one .
+Click on (create release ) create release.
+Then add some comment regarding that release or commit then click on create
+
+----------------------------------------------------------------------------------
+priority setting 
+
+
+I'm following the company policies without any issues. Filling the Timesheet on time without any reminders and 
+also completing all the mandatory trainings assigned. Following the Back to office as per the client expectation.
+I have worked as a Developer for 9882 & 9885  EAI's and i have fixed so many defects and bugs in our application. I have supported weekends also for our applications. I kept my complete efforts to give a defect free applications and now it is in production.
+ 
+I use to attend all the standup calls daily in order to provide my updates and also i make sure to complete the assigned tasks on time in the given sprint of two weeks. Also participate in the retrospective and give my feedbacks of the every sprints without fail
+ 
+I'm following the company policies without any issues. Filling the Timesheet on time without any reminders and 
+also completing all the mandatory trainings assigned. Following the Back to office as per the client expectation.
+I have worked as a Developer for 9882 & 9885  EAI's and i have fixed so many defects and bugs in our application. when our my projects needs  I have supported weekends also for our applications.
+
+I have given my best effort in any work assigned to me and worked along with the team to give a defect free applications and now it is in production.
+
+I will always focus on timeliness of delivery of project, quality of code.
+ 
+I use to attend all the standup calls daily in order to provide my updates and also i make sure to complete the assigned tasks on time in the given sprint of two weeks. Also participate in the retrospective and give my feedbacks of the every sprints without fail
+ 
+1.I am looking forward for comprehensive growth in my career and respective field.
+ 
+2. And I am learning new skills to accelerate my carrier.
+ 
+3. Stability in my career.
+ 
+
+
+
+https://www.programiz.com/javascript/array   Array methods
+https://www.programiz.com/javascript/comparison-logical  -- JavaScript Comparison Operators
+
+https://www.educative.io/answers/what-is-unidirectional-data-flow-in-react      uni directional data flow
+
+https://www.programiz.com/javascript/string   String methods
+
+
+time set out
+for (var i= 0; i<5 ; i++){
+  setTimeout(()=>{
+    console.log(i);
+  }, 1000);
+}
+
+
+If you get any error in api 
+
+framework and library
+ 
+how we provide security to react application
+ 
+
+map itration and map will return array and we can also pass data
+
+
+let  array = [1,2,3,4,2,4,6,6]
+ 
+function removeduplicate(){
+let unique = [];
+array.forEach(element => {
+    if(!unique.includes(element)){
+      unique.push(element)
+  }
+})
+return unique
+}
+console.log(removeduplicate(array))
+ 
+Duplicates
+
+
+
+let numbers = [1, 2, 3, 4, 5];
+ 
+// reversing the numbers array
+let reversedArray = numbers.reverse();
+ 
+console.log(reversedArray);
+ 
+// Output: [ 5, 4, 3, 2, 1 ]
+ 
+JavaScript Array reverse()
+ 
+
+
+
+
+// below or greater than numbers printing in new arrayes using for and ma
+oldArr = [1,2,3,4,5,6,7,8,9]
+newArr = []
+ 
+for (i = 1; i < oldArr.length; i++) {
+  if (oldArr[i] < 6)
+       newArr.push(oldArr[i])
+
+}
+ 
+console.log(newArr)
+ 
+
+// reverse array
+//  type :1
+
+firstArr = [1,2,3,4,5,6,7,8,9]
+reverseArr = []
+ 
+for (var i = firstArr.length-1 ; i < firstArr[i]; i--) {
+       reverseArr.push(firstArr[i])
+}
+ 
+console.log(reverseArr)
+ 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Difference b/w  object and JSON
+ 
+Object Example : For object we have "" only for values
+ 
+const person = {
+  firstName: "John",
+  lastName : "Doe",
+  id     :  5566
+};
+ 
+JSON Example : For JSON we have ""  for keys and  values
+ 
+const person = {
+  "firstName": "John",
+  "lastName" : "Doe",
+  "id"     :  "5566"
+};
+
+
+
+function dummy(){
+  let a=3,b=4;
+  return function sum(){
+    return a+b;
+  }
+}
+ 
+let y =dummy();
+console.log(y())
+ 
+closer
+
+
+/* 
+funct();
+console.log(a * a)
+function funct(){
+a = 4
+} */
+ 
+Closers
+ 
+
+
+
+To covert object to json we use stringify 
+To convert json to object we use Parser
+ 
+const target = { a: 1, b: 2, c:"chandu" };
+const source = JSON.stringify(target);
+ 
+console.log(JSON.stringify(target))
+console.log(JSON.parse(source))
+
+
+
+foreach will not return
+ 
+map wil return 
+
+
+
+Diffence blw primitive and non primitive data type ?
+ 
+using primitive we can store one value at a time 
+ 
+using non primitive we can stroe multiple values at a time
+ 
+
+
+redux :
+
+redux is open source javascript librabry for managing appication state. <br>
+redux tool is not only for react we can also use in angular, Vue js , <br>
+
+redux is open source javascript librabry for managing appication state. <br>
+redux tool is not only for react we can also use in angular, Vue js , <br>
+if you want to use Redux in react  we have to install some packages <br>npm install Redux and React-redux <br>
+<b > Redux Archstructure : </b> <br> yeah actually in react we have to manage state management already but the application growing bigger if you want mange state of the application bit Complex . <br>
+actually to avoid that they have introduced redux Library is in that we can manage the state of the application <br>
+
+
+It has mainly 4 concepts ,  store , Actor , reducer, Dispatch
+<br>
+store : what ever application data we have we will keep it in the redux store or used to store our " State value" <br>
+Reducer : Reducer is a part of a store , Reducer is for managing the state values or what ever store value in store  to managing properly <br>
+If you want to update any value in the redux store we have to dispatch an action that action need to be dispatch to reducer by using dispatch as soon as reducer is called . <br>it will update state and the store so where ever the component are subscribing the data that will be updated
+ 
+
+<b>MapDispatchto Props </b><br>
+is used to provide the action creator as props to our component . when we use in our component , when ever we want to dispatch the action creator (delete,add,Insert) then we use this mapdispatchto props .After dispatch of function directly moved to reducer<br>
+ 
+<b>Mapstateto Props </b>:<br>
+ 
+is used to function that you would use to provide the store data to our Component <br><br>
+ 
+connect : Connect is a react -redux module with connect only we are sending mapstateto props , mapdispatchto props then only component .<br><br>
+
+
+Use Memo hook :
+ 
+use memo hook is used to prevent the rendering in react function component .
+In react class level component we can use should component update method or react -pure Component class extension  to pravent a component from re-rendering . 
+Use Memo will only recompute the 
+memorized value when one of the dependencies  has changed .
+it is same as useEffect it has sideEffect it will re-render every time . 
+But in Use Memo don't have that side effect only when ever  the dependency has changed then only it will render .
+ 
+ 
+UseEffect & Use Memo  Difference:
+ 
+it will execute after return and render 
+It will execute with rendering .
+
+
+Interceptor :
+yes in Axois i have used interceptor for error handling globally for examples , when ever the Api call responses is coming , the interceptor will call inside that we can get the request data and response data if you want to do the globally  level kind of rendering or something.
+ 
+https://lightrains.com/blogs/axios-intercepetors-react/
+
+
+Life cycle Using React Hooks :
+ 
+yeah we have useeffect life cycle hook we can mainly concentrate on 3 lifecycle methods .
+1. componentDidMount ,
+2. componentdid Update
+ 
+3. componentwill Unmount.
+ 
+for example if  we  write i mean inside the useeffect we can write call back function what ever code will return in that 
+it will be take it as componentDid Mount .
+And also inside that we can write one return method  what ever code  return  inside that it will be called after the componentwill Unmount.
+and also we pass second parameter as array of parameter for the useeffect .
+when ever the parameter is updates the useeffect will be called when ever the value update at that time we can take it as a componentDid Mount.
+
+
+
+we use prevent defalut in  onclick or on submit  to stop reloading webpage e.preventdefalut on button click
+
+
+
+Hi Muskan,
+
+As you mentioned we worked for HGI Cook Book, nowhere mentioned about timings.
+so we spent every day 9 hours on this website to build, if you have any queries can you please contact Sanket.
+
+Thanks & Regards,
+Ramesh Kumar
+
+
+
+
+
